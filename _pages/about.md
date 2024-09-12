@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a researcher at the [Mercator Research Institute on Global Commons and Climate change](https://mcc-berlin.net) and PhD candidate at TU Berlin. In my work, I use empirical methods to examine questions in environmental economics with close linkages to development and public economics.
+I am a researcher at the [Mercator Research Institute on Global Commons and Climate Change](https://mcc-berlin.net) and PhD candidate at TU Berlin. In my work, I use empirical methods to examine questions in environmental economics with close linkages to development and public economics.
 
 Please feel invited to [get in touch](mailto:l.missbach@posteo.de).
 
