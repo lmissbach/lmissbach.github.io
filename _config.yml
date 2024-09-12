@@ -28,13 +28,13 @@ author:
   location         : "Berlin, Germany"
   employer         : "MCC"
   uri              : # URL
-  email            : "leonard_missbach@posteo.de" 
+  email            : "l.missbach@posteo.de" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=3RPIfAUAAAAJ&hl=de"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-8389-3208"
+  orcid            : # "https://orcid.org/0000-0002-8389-3208"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
