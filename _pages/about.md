@@ -18,7 +18,6 @@ Please feel invited to [get in touch](mailto:l.missbach@posteo.de).
 <summary>Abstract</summary>
 We analyze the distributional impacts of climate policy by examining heterogeneity in households' carbon intensity of consumption. We construct a novel dataset that includes information on the carbon intensity of 1.5 million individual households from 88 countries. We first show that horizontal differences are generally larger than vertical differences. We then use supervised machine learning to analyze the non-linear contribution of household characteristics to the prediction of carbon intensity of consumption. Including household-level information beyond total household expenditures, such as information on vehicle ownership, location, and energy use, increases the accuracy of predicting households' carbon intensity. The importance of such features is country-specific and model accuracy varies across the sample. We identify six clusters of countries that differ in the distribution of climate policy costs and their determinants. Our results highlight that, depending on the context, some compensation policies may be more effective in reducing horizontal heterogeneity than others.</details>
 
-\[[Code available](https://github.com/lmissbach/Carbon-Intensity-2023)\]
 
 ### [Coal-fired power plants and industrial development](https://hdl.handle.net/10419/300209)
 
@@ -33,7 +32,5 @@ Past periods of industrial development have gone hand in hand with the burning o
 <summary>Abstract</summary>
 One reason carbon prices are difficult to implement is that they might imply high additional costs on poor and vulnerable households. In response, studies often highlight that recycling revenues through cash transfers can render carbon pricing reforms progressive. This neglects that existing cash transfer programs target households from low-income groups imperfectly and that impacts of a carbon price are heterogeneous within income groups. In this study, we analyze if existing cash transfer programs can help to alleviate distributional effects of carbon pricing in 16 Latin American and Caribbean countries. We find that carbon pricing is regressive in 11 countries and progressive in 5. Most importantly, differences within income groups exceed differences between them. Beyond total household expenditures, car ownership and cooking fuel usage explain the variance in carbon pricing impacts. We show that households who are most affected by carbon pricing, some of them poor, do not necessarily have access to existing cash transfer programs. We suggest that governments aiming to compensate households should consider broadening the coverage of existing cash transfer programs, utilizing in-kind transfers or removing other distortionary taxes.
 </details>
-
-\[[Code available](https://github.com/lmissbach/carbon_pricing_latin_america)\]
 
 
