@@ -12,14 +12,14 @@ Please feel invited to [get in touch](mailto:l.missbach@posteo.de).
 
 ## Selected work
 
-### [Distributional impacts of climate policy and effective compensation: Evidence from 88 countries](https://hdl.handle.net/10419/301069)
+### [Distributional impacts of climate policy and effective compensation: Evidence from 88 countries](https://www.econstor.eu/bitstream/10419/301069/1/Manuscript_20240815.pdf)
 
 <details>
 <summary>Abstract</summary>
 We analyze the distributional impacts of climate policy by examining heterogeneity in households' carbon intensity of consumption. We construct a novel dataset that includes information on the carbon intensity of 1.5 million individual households from 88 countries. We first show that horizontal differences are generally larger than vertical differences. We then use supervised machine learning to analyze the non-linear contribution of household characteristics to the prediction of carbon intensity of consumption. Including household-level information beyond total household expenditures, such as information on vehicle ownership, location, and energy use, increases the accuracy of predicting households' carbon intensity. The importance of such features is country-specific and model accuracy varies across the sample. We identify six clusters of countries that differ in the distribution of climate policy costs and their determinants. Our results highlight that, depending on the context, some compensation policies may be more effective in reducing horizontal heterogeneity than others.</details>
 
 
-### [Coal-fired power plants and industrial development](https://hdl.handle.net/10419/300209)
+### [Coal-fired power plants and industrial development](https://www.econstor.eu/bitstream/10419/300209/1/Missbach-Coal-fired-power-plants.pdf)
 
 <details>
 <summary>Abstract</summary>
